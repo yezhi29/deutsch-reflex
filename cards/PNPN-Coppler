@@ -1,0 +1,2364 @@
+# Signale, Rezeptparameter & Stacker – Chunk-Karten
+
+> 来源：Eingefügter Text  
+> 主题：Signalabgleich / Rezeptparameter / Watchdog / Öffner / Mischkammer / Stacker / Filteranlage / Kabel / Sensoren / Smalltalk  
+> 目标：复习德国工程会议中真实 chunk 和中国人容易听崩的表达。
+
+---
+
+# Zumindest irgendwie alle drauf gucken.
+
+> 🇨🇳 至少大家 irgendwie 都能一起看。
+
+⚠️ 中国人误区：  
+drauf gucken 不是“看在上面”。
+
+而是：
+
+- 看这个文件
+- 看这个屏幕
+- 一起过内容
+
+💥 德国现场会议高频。
+
+---
+
+# Wenn wir hier durch sind, dann ...
+
+> 🇨🇳 等我们这里过完之后……
+
+⚠️ 中国人危险点：  
+durch sein 不是“穿过去”。
+
+而是：
+
+- 过完议题
+- 处理完
+- 看完内容
+
+🔥 会议推进高频。
+
+---
+
+# Die China reagiert sehr schnell.
+
+> 🇨🇳 中国那边反应很快。
+
+⚠️ 更自然：  
+Die Chinesen reagieren sehr schnell.  
+或者：China reagiert sehr schnell.
+
+🧠 真实语气：  
+这里是在评价对方反馈速度。
+
+---
+
+# Aber jetzt erst mal nicht, die nächsten Tage.
+
+> 🇨🇳 但接下来几天先不用。
+
+⚠️ 中国人误区：  
+erst mal = 暂时先 / 先这样。
+
+不是“第一次”。
+
+---
+
+# Kann man das lesen oder nicht?
+
+> 🇨🇳 这个能看清吗？
+
+💥 会议投屏高频句。
+
+---
+
+# Wir gehen noch mal gemeinsam durch.
+
+> 🇨🇳 我们再一起过一遍。
+
+⚠️ 中国人误区：  
+durchgehen = 过一遍 / 检查一遍 / 逐项看。
+
+🔥 德国会议神句。
+
+---
+
+# Passt schon.
+
+> 🇨🇳 可以了 / 没问题 / 差不多行了。
+
+⚠️ 中国人危险点：  
+Passt schon 不等于“完美”。
+
+很多时候只是：
+
+- 可以接受
+- 够用了
+- 没大问题
+
+💥 德国人口语极高频。
+
+---
+
+# Das muss ich mal mehr nachbauen.
+
+> 🇨🇳 这个我得再多复现/搭一下。
+
+⚠️ nachbauen = 按照已有结构再搭建 / 复现。
+
+🏭 工程语境：  
+经常用于软件、图纸、结构、模型。
+
+---
+
+# Das können wir erst mal überspringen.
+
+> 🇨🇳 这个我们先跳过。
+
+⚠️ überspringen = 跳过，不处理这一段。
+
+🔥 会议推进高频。
+
+---
+
+# Es geht erst mal um die Signale.
+
+> 🇨🇳 现在先重点看信号。
+
+⚠️ es geht um = 主题是 / 重点是。
+
+🧠 德国会议核心结构。
+
+---
+
+# Das oben ist nur der Aufbau von dem Ganzen.
+
+> 🇨🇳 上面那部分只是整体结构。
+
+⚠️ Aufbau = 结构 / 搭建方式 / 组成。
+
+---
+
+# Dann geht es los.
+
+> 🇨🇳 那就可以开始了。
+
+💥 德国人口语高频。
+
+---
+
+# Dann können wir den Motor testen und die Heizung auch noch.
+
+> 🇨🇳 然后我们可以测试电机，也可以顺便测试加热。
+
+🏭 调试现场高频表达。
+
+---
+
+# Das ist das, was ich vorgegeben hatte.
+
+> 🇨🇳 这就是我之前给定的内容。
+
+⚠️ vorgeben = 预先规定 / 给定 / 设定。
+
+📋 工程参数高频。
+
+---
+
+# Dem werden nur die Übersetzungen darunter geschrieben.
+
+> 🇨🇳 下面只是加上翻译。
+
+⚠️ darunter schreiben = 写在下面。
+
+---
+
+# Das passt soweit.
+
+> 🇨🇳 到目前为止这个可以。
+
+⚠️ soweit = 到目前这个程度 / 从当前状态看。
+
+不是 100% 完成。
+
+🔥 德国项目高频。
+
+---
+
+# Das ist Safety zurück.
+
+> 🇨🇳 这是安全信号返回。
+
+🏭 电气/自动化语境：  
+Safety zurück = safety feedback / 安全反馈。
+
+---
+
+# Watchdog zum Überwachen.
+
+> 🇨🇳 Watchdog 用来监控。
+
+⚠️ überwachen = 监控 / 监督 / 检测是否正常。
+
+📋 自动化高频。
+
+---
+
+# Ob die Kommunikation auch läuft.
+
+> 🇨🇳 看通信是否还在正常运行。
+
+⚠️ laufen 在技术语境不是“跑步”。
+
+而是：
+
+- 运行
+- 正常工作
+- 通讯正常
+
+🔥 技术会议高频。
+
+---
+
+# Wenn die nicht mehr läuft, was dann?
+
+> 🇨🇳 如果通信不跑了，那怎么办？
+
+🧠 德国工程逻辑：  
+德国人喜欢追问异常状态：
+
+- 如果坏了怎么办？
+- 如果信号丢了怎么办？
+- 如果通信断了怎么办？
+
+---
+
+# Dann ist die Anlage aus.
+
+> 🇨🇳 那设备就停机。
+
+⚠️ aus sein = 关闭 / 停止 / 断开。
+
+---
+
+# Dann kannst du nicht produzieren, wenn das fehlt.
+
+> 🇨🇳 如果这个缺了，就不能生产。
+
+⚠️ fehlen = 缺少 / 不存在 / 信号不到位。
+
+---
+
+# Von unserer Seite aus.
+
+> 🇨🇳 从我们这边看 / 从我们这边发出。
+
+⚠️ 德国会议很爱用 Seite：
+
+- von unserer Seite
+- von eurer Seite
+- von Kundenseite
+- von Lieferantenseite
+
+---
+
+# Ob die Gesamtmaschine bereit ist zum Laufen.
+
+> 🇨🇳 整机是否准备好运行。
+
+🏭 自动化信号高频：  
+bereit zum Laufen = ready to run。
+
+---
+
+# Das muss man übersetzen.
+
+> 🇨🇳 这个必须翻译。
+
+🔥 高频。
+
+---
+
+# Das heißt normalerweise in dieser Situation ...
+
+> 🇨🇳 在这种情况下通常叫……
+
+⚠️ 中国人误区：  
+das heißt 不只是“这叫做”。
+
+也可以是：
+
+- 也就是说
+- 意思是
+- 这个应翻译为
+
+---
+
+# Das kann Mattia anbieten.
+
+> 🇨🇳 这个 Mattia 可以提供。
+
+⚠️ anbieten = 提供 / 报价 / 可支持。
+
+---
+
+# Passt.
+
+> 🇨🇳 可以 / 对 / 没问题。
+
+💥 德国现场最常见确认词之一。
+
+---
+
+# Das sind die Sachen, die zurückkommen.
+
+> 🇨🇳 这些是返回来的信号/数据。
+
+⚠️ zurückkommen 在自动化里可以指：
+
+- 反馈回来
+- 返回信号
+- 回传数据
+
+---
+
+# Dass der Öffner bereit ist.
+
+> 🇨🇳 开松机准备好了。
+
+🏭 ready signal 语境。
+
+---
+
+# Für den verketteten Betrieb bereit.
+
+> 🇨🇳 准备好进行联动运行。
+
+⚠️ verketteter Betrieb = 联机/联动运行。
+
+📋 自动化、生产线高频。
+
+---
+
+# Da muss man laufen, da muss man stoppen.
+
+> 🇨🇳 这里该运行就运行，该停就停。
+
+⚠️ 中国人危险点：  
+这句话很口语，不是语法教材句。
+
+意思是：  
+信号逻辑要决定设备运行或停止。
+
+---
+
+# Jetzt wird es spannend.
+
+> 🇨🇳 现在开始有意思/关键了。
+
+💥 德国会议高频。
+
+🧠 真实含义：  
+下面进入复杂、重要或不确定部分。
+
+---
+
+# Das wisst ihr jetzt besser als ich.
+
+> 🇨🇳 这个你们现在比我更清楚。
+
+⚠️ 德国会议谦让/甩专业边界表达：
+
+- 这块你们更专业
+- 我不硬判断
+- 我需要你们确认
+
+---
+
+# Rezeptparameter
+
+> 🇨🇳 配方参数。
+
+🏭 生产线核心词：
+
+- Rezept = 配方
+- Parameter = 参数
+
+---
+
+# Von der Hauptmaschine zur Tür gehen.
+
+> 🇨🇳 从主机传到 Tür 那边。
+
+⚠️ gehen 在自动化里常表示：
+
+- 信号走向
+- 数据传输
+- 通讯流向
+
+---
+
+# Da sollten Sie alles reinschreiben, was Sie an Sollwerten brauchen.
+
+> 🇨🇳 你们应该把所有需要的设定值写进去。
+
+⚠️ 中国人危险点：  
+Sollwert = 设定值。  
+Istwert = 实际值。
+
+📋 自动化神级基础词。
+
+---
+
+# Die Sprüheinrichtung müsste da irgendwie mit rein.
+
+> 🇨🇳 喷淋装置也得 irgendwie 加进去。
+
+⚠️ mit rein = 一起放进去 / 加进去。
+
+💥 德国口语方向词高频。
+
+---
+
+# Das muss man schreiben.
+
+> 🇨🇳 这个必须写进去。
+
+🧠 德国工程语境：  
+“写进去”= 进入表格/规格/接口清单。
+
+---
+
+# Geht das in Prozent?
+
+> 🇨🇳 这个是按百分比吗？
+
+🔥 工程参数确认高频。
+
+---
+
+# Ich habe bei mir noch eine Spalte gemacht mit Unit.
+
+> 🇨🇳 我这边还加了一列单位。
+
+📋 表格讨论高频。
+
+---
+
+# Der Anteil ist wichtig.
+
+> 🇨🇳 这个比例很重要。
+
+🔥 高频。
+
+---
+
+# Weiter habe ich gar nicht hingeschaut.
+
+> 🇨🇳 后面我根本还没看。
+
+⚠️ hinschauen = 看 / 仔细看。
+
+💥 口语。
+
+---
+
+# Wir können einmal durchgehen.
+
+> 🇨🇳 我们可以过一遍。
+
+🔥 会议神句。
+
+---
+
+# Das sollen die angeben?
+
+> 🇨🇳 这个要他们来给？
+
+⚠️ angeben = 提供 / 填写 / 给出数值。
+
+📋 参数表高频。
+
+---
+
+# Das können wir doch gar nicht festlegen.
+
+> 🇨🇳 这个我们根本没法定。
+
+⚠️ 中国人危险点：  
+doch gar nicht 加强否定：
+
+- 根本不能
+- 完全没法
+- 不应由我们定
+
+---
+
+# Das ist komisch.
+
+> 🇨🇳 这个有点奇怪。
+
+⚠️ 德国人说 komisch 经常表示：
+
+- 逻辑不对
+- 看不懂
+- 感觉有问题
+- 需要追问
+
+🔥 高频。
+
+---
+
+# Ich glaube, am besten fragt man nach.
+
+> 🇨🇳 我觉得最好问一下。
+
+⚠️ nachfragen = 追问 / 确认。
+
+📧 项目沟通高频。
+
+---
+
+# Ist das überhaupt etwas, was im Rezept stehen würde?
+
+> 🇨🇳 这个到底是不是应该写进配方里的东西？
+
+⚠️ überhaupt = 到底 / 究竟。
+
+🧠 德国人用 überhaupt 追问逻辑根本性。
+
+---
+
+# Das machen die doch intern, oder?
+
+> 🇨🇳 这个应该是他们内部自己处理的，对吧？
+
+⚠️ intern = 内部的。
+
+doch 在这里带“按理说应该是这样”的语气。
+
+---
+
+# Das funktioniert nicht.
+
+> 🇨🇳 这个行不通。
+
+🔥 德国会议强否定句。
+
+---
+
+# Das geben wir nicht vor.
+
+> 🇨🇳 这个不是由我们预设。
+
+⚠️ vorgeben = 规定 / 给定。
+
+🧠 责任边界表达：  
+哪些参数由我们给，哪些由供应商内部处理。
+
+---
+
+# Das kann man nicht vorgeben.
+
+> 🇨🇳 这个不能预先给定。
+
+📋 参数逻辑高频。
+
+---
+
+# Das ist egal für uns.
+
+> 🇨🇳 这个对我们来说无所谓。
+
+⚠️ egal 不是没礼貌，工程里表示：
+
+- 不影响我们
+- 不需要我们定义
+- 不进入我们的接口
+
+---
+
+# Hauptsache, es kommt Material.
+
+> 🇨🇳 主要是材料能出来。
+
+⚠️ Hauptsache = 最关键的是 / 只要。
+
+💥 德国人口语高频。
+
+---
+
+# Prozentdrehzahl und Prozent umgerechnet.
+
+> 🇨🇳 百分比转成转速百分比/转速值。
+
+🏭 技术参数讨论。
+
+---
+
+# Wir können das von denen vorgeben lassen.
+
+> 🇨🇳 我们可以让他们来给定这个。
+
+⚠️ vorgeben lassen = 让别人给出设定。
+
+---
+
+# Damit man Vorstellungen hat.
+
+> 🇨🇳 这样人有个概念。
+
+⚠️ Vorstellung = 概念 / 想法 / 直观感受。
+
+---
+
+# Meter pro Minute ist besser.
+
+> 🇨🇳 米每分钟更好。
+
+🏭 单位确认高频。
+
+---
+
+# Wenn du das erst mal festgelegt hast, kannst du danach auch umprogrammieren.
+
+> 🇨🇳 你先把它定下来，之后也可以重新编程调整。
+
+⚠️ festlegen = 定下来。  
+umprogrammieren = 重新编程。
+
+---
+
+# Das ist kein Thema.
+
+> 🇨🇳 这个不是问题。
+
+💥 德国人口语高频。
+
+---
+
+# Es sollte trotzdem möglichst viel feststehen.
+
+> 🇨🇳 尽管如此，还是应该尽量多的东西先定下来。
+
+⚠️ feststehen = 已确定 / 已定稿。
+
+📋 项目推进核心词。
+
+---
+
+# Wir lassen das von denen vorgeben.
+
+> 🇨🇳 我们让他们来给定这个。
+
+🧠 责任边界表达。
+
+---
+
+# Das ist ein gutes Beispiel.
+
+> 🇨🇳 这是一个很好的例子。
+
+🔥 高频。
+
+---
+
+# Nimm das. Das ist eine Basis.
+
+> 🇨🇳 就用这个。这个是基础。
+
+⚠️ Basis = 基础 / 基准版本。
+
+---
+
+# Die Farbe können wir nicht nehmen.
+
+> 🇨🇳 这个颜色我们不能用。
+
+💥 这里带玩笑语气。
+
+---
+
+# Die ganzen Geschwindigkeiten und Prozent passen.
+
+> 🇨🇳 这些速度和百分比都可以。
+
+⚠️ passen = 合适 / 对得上 / 可以。
+
+---
+
+# Was meinen Sie genau mit den Prozentzahlen?
+
+> 🇨🇳 您这些百分比数字具体是什么意思？
+
+🔥 技术会议提问高频。
+
+---
+
+# Das sind die Grenzen.
+
+> 🇨🇳 这些是边界值/范围。
+
+📋 参数高频。
+
+---
+
+# Die Sprüheinrichtung muss man auch geben.
+
+> 🇨🇳 喷淋装置也必须给出来。
+
+⚠️ geben 在这里口语化表示：
+
+- 提供
+- 写进去
+- 给出参数
+
+---
+
+# Du kannst erst mal einen Anhalt geben.
+
+> 🇨🇳 你可以先给一个参考值。
+
+⚠️ Anhalt = 参考依据 / 大致方向。
+
+📋 工程讨论高频。
+
+---
+
+# Je nachdem, welche Leistung du hast.
+
+> 🇨🇳 取决于你有多大的产能/输出。
+
+⚠️ je nachdem = 取决于。
+
+🔥 高频。
+
+---
+
+# Das muss hier auch ein bisschen nach der Faser richten.
+
+> 🇨🇳 这个也得根据纤维情况来调整。
+
+⚠️ sich nach etwas richten = 依据某事来调整。
+
+🧠 德国工程语境：  
+参数不是固定死的，要看材料。
+
+---
+
+# Dann geben wir das auch noch mit.
+
+> 🇨🇳 那我们也把这个一起带上/加进去。
+
+⚠️ mitgeben = 一起提供 / 带上 / 附上。
+
+---
+
+# Oder fehlt euch noch irgendwas?
+
+> 🇨🇳 你们还缺什么吗？
+
+🔥 会议收尾确认高频。
+
+---
+
+# Daraus ergibt sich dann das Gewicht.
+
+> 🇨🇳 由此就得出重量。
+
+⚠️ sich ergeben = 得出 / 产生 / 推导出。
+
+📋 德国逻辑表达高频。
+
+---
+
+# So haben sie es programmiert.
+
+> 🇨🇳 他们就是这样编程的。
+
+🔥 技术讨论高频。
+
+---
+
+# So viel ich weiß.
+
+> 🇨🇳 据我所知。
+
+⚠️ 德国人用来降低确定性，不把话说死。
+
+---
+
+# Das können wir noch mal aufnehmen.
+
+> 🇨🇳 这个我们可以再补充进去。
+
+⚠️ aufnehmen = 纳入 / 加进清单 / 记录下来。
+
+📋 会议记录高频。
+
+---
+
+# Brauchen wir nicht.
+
+> 🇨🇳 不需要。
+
+💥 德国口语短句。
+
+---
+
+# Das ist das Problem.
+
+> 🇨🇳 问题就在这里。
+
+🔥 高频。
+
+---
+
+# Ich schreibe alle drei auf.
+
+> 🇨🇳 我把三个都写上。
+
+💥 会议记录高频。
+
+---
+
+# Das muss man hinzufügen.
+
+> 🇨🇳 这个必须添加。
+
+⚠️ hinzufügen = 补充进去。
+
+---
+
+# Wenn die angetrieben werden, muss das auch mit angegeben werden.
+
+> 🇨🇳 如果它们是驱动的，那也必须一起给出。
+
+⚠️ mit angegeben werden = 一并注明/给出。
+
+📋 技术清单高频。
+
+---
+
+# Am besten dachte eine Minute nach.
+
+> 🇨🇳 最好想一分钟。
+
+⚠️ 更自然：  
+Am besten denkst du eine Minute nach.
+
+🧠 真实功能：  
+不要急着填，先想清楚缺什么。
+
+---
+
+# Alle Motoren ansteuerbar.
+
+> 🇨🇳 所有电机都可控制。
+
+🏭 自动化高频。
+
+---
+
+# Für die Rezeptgespräche ist das gut.
+
+> 🇨🇳 对配方讨论来说，这个很好。
+
+📋 Rezeptgespräch = 围绕配方/参数的讨论。
+
+---
+
+# Wir haben zum Glück ein bisschen Zeit.
+
+> 🇨🇳 幸好我们还有一点时间。
+
+💥 高频。
+
+---
+
+# Das zurückzuschicken.
+
+> 🇨🇳 把这个发回去。
+
+📧 项目沟通高频。
+
+---
+
+# Fünf Tage Feiertag.
+
+> 🇨🇳 五天假期。
+
+---
+
+# Wir feiern die Arbeit und arbeiten nichts.
+
+> 🇨🇳 我们庆祝劳动，然后啥也不干。
+
+💥 玩笑表达。  
+Arbeitsfeiertag / Tag der Arbeit 语境。
+
+---
+
+# Nur nicht groß kommodieren.
+
+> 🇨🇳 不要搞得太复杂。
+
+⚠️ 这里转录可能不准，更自然可能是：
+
+Nur nicht groß komplizieren.  
+别把它复杂化。
+
+---
+
+# Gleiche Struktur.
+
+> 🇨🇳 同样的结构。
+
+🔥 技术表格高频。
+
+---
+
+# Gleiche Theorie.
+
+> 🇨🇳 同样的逻辑。
+
+💥 德国人喜欢用 Theorie 表示“逻辑/原理”。
+
+---
+
+# Da fehlen noch mehr, oder was?
+
+> 🇨🇳 那里还缺更多东西，对吧？
+
+💥 现场口语。
+
+---
+
+# Das ist einfach sowas.
+
+> 🇨🇳 大概就是这么个东西。
+
+⚠️ 德国人口语模糊表达。
+
+---
+
+# Für mich ist Hopper wie ein Trichter.
+
+> 🇨🇳 对我来说，Hopper 就像一个漏斗。
+
+⚠️ für mich = 在我理解中。
+
+🧠 用来表达个人概念，不是绝对定义。
+
+---
+
+# Keine Ahnung.
+
+> 🇨🇳 不知道。
+
+💥 德国口语高频。
+
+---
+
+# Es gibt immer nur Ärger.
+
+> 🇨🇳 这总是只会带来麻烦。
+
+⚠️ Ärger = 麻烦 / 烦心事 / 争议。
+
+---
+
+# Es gibt schon viele Fantasie, was man alles regeln kann.
+
+> 🇨🇳 关于什么都能自动调节，人们确实有很多想象。
+
+⚠️ Fantasie 这里是带一点讽刺：
+
+- 想得太美
+- 设想很多
+- 现实未必可行
+
+---
+
+# Die beste Regelung ist, die Faser woanders zu kaufen.
+
+> 🇨🇳 最好的调节方式就是去别处买更好的纤维。
+
+💥 德国式吐槽。
+
+🧠 真实含义：  
+与其复杂调节，不如从材料源头解决问题。
+
+---
+
+# Kann man auch schnell oder langsam machen.
+
+> 🇨🇳 这个也可以调快或调慢。
+
+🏭 参数调节高频。
+
+---
+
+# Wenn ihr nicht durcheinander kommt.
+
+> 🇨🇳 只要你们别搞混。
+
+⚠️ durcheinander kommen = 混乱 / 搞混。
+
+💥 口语高频。
+
+---
+
+# Ich würde tatsächlich die Frequenz anschauen.
+
+> 🇨🇳 我会实际去看频率/变频器设置。
+
+⚠️ tatsächlich = 实际上 / 真的。
+
+---
+
+# Ich glaube, das reicht.
+
+> 🇨🇳 我觉得这样够了。
+
+🔥 高频。
+
+---
+
+# Da fehlt eigentlich noch viel.
+
+> 🇨🇳 实际上还缺很多东西。
+
+🧠 真实语气：  
+比 “ein bisschen fehlt” 严重。
+
+---
+
+# Das sind ein paar wichtige Eckpunkte.
+
+> 🇨🇳 这些只是几个重要关键点。
+
+⚠️ Eckpunkte = 关键点 / 框架点。
+
+📋 项目讨论高频。
+
+---
+
+# Bedienungsanleitung haben die noch nicht.
+
+> 🇨🇳 他们还没有操作说明书。
+
+📋 CE / Dokumentation 高频。
+
+---
+
+# Da gucken wir rein.
+
+> 🇨🇳 我们进去看一下 / 我们查看一下。
+
+⚠️ rein gucken = 看进去 / 查看文件内容。
+
+💥 口语。
+
+---
+
+# Bist du schon müde?
+
+> 🇨🇳 你已经累了吗？
+
+💥 日常口语。
+
+---
+
+# Kleine Kinder und alte Leute müssen viel schlafen.
+
+> 🇨🇳 小孩和老人要多睡觉。
+
+💥 调侃句。
+
+---
+
+# Die sind nur dazu da, um einen Überdruck zu erzeugen.
+
+> 🇨🇳 它们只是用来产生过压。
+
+⚠️ dazu da sein, um ... = 用来做某事。
+
+🏭 技术解释高频。
+
+---
+
+# Jeder Umrichter, der den Wert braucht.
+
+> 🇨🇳 每个需要数值的变频器。
+
+📋 自动化参数逻辑。
+
+---
+
+# Willst du mit?
+
+> 🇨🇳 你要一起去吗？
+
+💥 德国口语高频。
+
+---
+
+# Wenn ich mit darf, dann fahre ich mit.
+
+> 🇨🇳 如果允许我一起去，那我就去。
+
+⚠️ mit dürfen = 被允许一起去。
+
+---
+
+# Das Wichtigste ist, dass Nico dabei ist.
+
+> 🇨🇳 最重要的是 Nico 要在场。
+
+🔥 会议安排高频。
+
+---
+
+# Ich habe von ihm gehört.
+
+> 🇨🇳 我听说过他。
+
+💥 高频。
+
+---
+
+# Schönen Ruf hatte er.
+
+> 🇨🇳 他名声不错。
+
+⚠️ Ruf = 名声。
+
+---
+
+# Da hast du die Spezialisten kennengelernt.
+
+> 🇨🇳 那你算是认识到那些“专家”了。
+
+⚠️ 这里 Spezialisten 可能带讽刺。
+
+🧠 真实含义：  
+那些很有个性、难搞但懂行的人。
+
+---
+
+# Mit den Leuten musst du dich gut stellen.
+
+> 🇨🇳 你得和这些人搞好关系。
+
+⚠️ sich mit jemandem gut stellen = 和某人搞好关系。
+
+💥 很地道。
+
+---
+
+# Kann man einschätzen.
+
+> 🇨🇳 可以评估/判断出来。
+
+🔥 高频。
+
+---
+
+# Das kann man anschneiden.
+
+> 🇨🇳 这个可以提一下/切入讨论。
+
+⚠️ etwas anschneiden = 提起一个话题。
+
+📋 会议高频。
+
+---
+
+# Die Ventilatoren laufen bestimmt durch.
+
+> 🇨🇳 风机肯定是持续运行的。
+
+⚠️ durchlaufen = 持续运行。
+
+---
+
+# Lassen wir erst mal so.
+
+> 🇨🇳 我们先这样保留。
+
+🔥 会议决策高频。
+
+---
+
+# Wir lassen ja auch immer Reserve.
+
+> 🇨🇳 我们反正也会留余量。
+
+📋 工程设计高频：  
+Reserve = 余量 / 预留。
+
+---
+
+# Kann man nicht auf einmal alles fertig machen.
+
+> 🇨🇳 不可能一次性把所有东西都做完。
+
+🧠 德国项目现实主义。
+
+---
+
+# Muss man schrittweise ergänzen.
+
+> 🇨🇳 必须逐步补充。
+
+⚠️ schrittweise = 分步骤地 / 逐步地。
+
+🔥 项目推进高频。
+
+---
+
+# Wir wollen ja die Bilder spiegeln.
+
+> 🇨🇳 我们想把画面/界面镜像过去。
+
+⚠️ spiegeln 在 IT/显示/HMI 语境中 = 镜像 / 映射 / 同步显示。
+
+---
+
+# Was wollen wir damit machen?
+
+> 🇨🇳 我们拿这个要干嘛？
+
+🧠 德国会议中常用来质疑数据是否必要。
+
+---
+
+# Ich überlege gerade.
+
+> 🇨🇳 我正在想。
+
+💥 口语缓冲句。
+
+---
+
+# Das ist eigentlich egal.
+
+> 🇨🇳 这个其实无所谓。
+
+⚠️ eigentlich egal = 对当前目标不关键。
+
+---
+
+# Das müsste uns eigentlich gar nichts sein.
+
+> 🇨🇳 这个对我们其实不重要。
+
+⚠️ 更自然：  
+Das müsste uns eigentlich gar nicht interessieren.
+
+---
+
+# Das könnte vielleicht noch interessant sein.
+
+> 🇨🇳 这个也许还有点有用。
+
+🧠 德国人用 könnte vielleicht 降低确定性。
+
+---
+
+# Das wäre sicherlich eine Überwachungsfunktion.
+
+> 🇨🇳 这肯定会是一个监控功能。
+
+📋 自动化高频。
+
+---
+
+# Danach kommen nur Alarmwerte.
+
+> 🇨🇳 后面只是报警值。
+
+🏭 自动化表格高频。
+
+---
+
+# Das müssen wir jetzt nicht angucken.
+
+> 🇨🇳 这个我们现在不用看。
+
+🔥 会议推进高频。
+
+---
+
+# Nach Funktionen aufgeteilt.
+
+> 🇨🇳 按功能划分。
+
+📋 表格/系统结构高频。
+
+---
+
+# Da kriegst du hin.
+
+> 🇨🇳 你能搞定。
+
+⚠️ 更自然：  
+Das kriegst du hin.
+
+💥 德国鼓励句。
+
+---
+
+# Dann können wir zum Stacker gehen.
+
+> 🇨🇳 那我们可以看 Stacker 了。
+
+⚠️ zu etwas gehen = 转到某个议题。
+
+---
+
+# Das weiß ich nix von.
+
+> 🇨🇳 这个我不知道。
+
+⚠️ 口语/方言感：  
+标准：Davon weiß ich nichts.
+
+---
+
+# Ich kann mir vorstellen, wie er funktioniert.
+
+> 🇨🇳 我能想象它是怎么工作的。
+
+🔥 高频。
+
+---
+
+# Da werden sie wahrscheinlich keine Rezeptverwaltung haben.
+
+> 🇨🇳 他们大概率不会有配方管理。
+
+📋 Rezeptverwaltung = 配方管理。
+
+---
+
+# Wegen der Höhe muss man einstellen.
+
+> 🇨🇳 因为高度不同，所以要调整。
+
+🏭 调试高频。
+
+---
+
+# Je nachdem.
+
+> 🇨🇳 视情况而定。
+
+🔥 德语口语神词。
+
+---
+
+# Ich bin so gespannt, wie das funktioniert.
+
+> 🇨🇳 我特别好奇这个怎么运行。
+
+💥 口语高频。
+
+---
+
+# Vier Stunden reicht aus.
+
+> 🇨🇳 四个小时够了。
+
+⚠️ 更标准：  
+Vier Stunden reichen aus.
+
+---
+
+# Ich kann mich überall hinlegen.
+
+> 🇨🇳 我在哪儿都能躺下。
+
+💥 闲聊口语。
+
+---
+
+# Normalerweise müsste der autark arbeiten.
+
+> 🇨🇳 正常来说它应该独立运行。
+
+⚠️ autark = 独立的 / 自给自足的。
+
+🏭 设备系统高频。
+
+---
+
+# Eigentlich auch egal.
+
+> 🇨🇳 其实也无所谓。
+
+💥 口语。
+
+---
+
+# Die müssen ja von uns einen Leitwert bekommen.
+
+> 🇨🇳 它们总得从我们这里得到一个主导/参考值。
+
+⚠️ Leitwert = 引导值 / 主控参考值。
+
+---
+
+# Da geht es schon los.
+
+> 🇨🇳 问题这就开始了。
+
+⚠️ 德国人常用来表示：
+
+- 麻烦点出现了
+- 复杂性开始了
+- 问题从这里开始
+
+💥 很地道。
+
+---
+
+# Ich esse alles gerne.
+
+> 🇨🇳 我啥都爱吃。
+
+💥 日常口语。
+
+---
+
+# Das ist aus China.
+
+> 🇨🇳 这是中国来的。
+
+---
+
+# Schmeckt gut.
+
+> 🇨🇳 味道不错。
+
+---
+
+# Wenn es so gebaut wird, meinen wir, dass es nicht funktioniert.
+
+> 🇨🇳 如果按这样建，我们认为它可能不工作。
+
+⚠️ 中国人误区：  
+meinen = 认为 / 判断，不是 only “意思是”。
+
+---
+
+# Das würde ich vorschlagen.
+
+> 🇨🇳 我会建议这么做。
+
+🔥 会议建议高频。
+
+---
+
+# Die müssen auf jeden Fall ein Warnsignal geben.
+
+> 🇨🇳 它们无论如何必须给一个警告信号。
+
+⚠️ auf jeden Fall = 无论如何 / 肯定。
+
+🏭 自动化高频。
+
+---
+
+# Wenn einfach kein Platz mehr ist.
+
+> 🇨🇳 如果就是没有空间了。
+
+⚠️ einfach 在这里加强语气：
+
+- 就是
+- 单纯就是
+- 实际情况就是
+
+---
+
+# Das Band anheben.
+
+> 🇨🇳 把输送带抬起来。
+
+🏭 机械动作表达。
+
+---
+
+# Aus Erfahrung kann ich nur sagen, was passiert.
+
+> 🇨🇳 根据经验，我只能说会发生什么。
+
+🧠 德国老师傅语气：  
+经验判断，不是理论推测。
+
+---
+
+# Das kann ich nächste Woche mal mit Herrn Peter besprechen.
+
+> 🇨🇳 这个我下周可以和 Peter 先生谈一下。
+
+🔥 项目沟通高频。
+
+---
+
+# Ich schreibe mir das kurz auf.
+
+> 🇨🇳 我简单记一下。
+
+💥 会议高频。
+
+---
+
+# Nicht vergessen.
+
+> 🇨🇳 别忘了。
+
+---
+
+# Ich bin unverschämt.
+
+> 🇨🇳 我有点厚脸皮。
+
+⚠️ unverschämt = 不客气 / 厚脸皮 / 过分。
+
+这里是开玩笑。
+
+---
+
+# Bodenlos.
+
+> 🇨🇳 过分到没边了。
+
+💥 德国口语夸张词。
+
+---
+
+# Die maximale Anzahl.
+
+> 🇨🇳 最大数量。
+
+📋 参数高频。
+
+---
+
+# Die Designgeschwindigkeit.
+
+> 🇨🇳 设计速度。
+
+🏭 工程高频。
+
+---
+
+# Wenn ich die Anlage in Betrieb nehme.
+
+> 🇨🇳 当我把设备投入运行时。
+
+📋 in Betrieb nehmen = 投入运行 / 调试启用。
+
+---
+
+# Deswegen machen wir nie Sekunde.
+
+> 🇨🇳 所以我们从不用秒作为单位。
+
+🧠 真实含义：  
+单位太小，不便于操作/显示。
+
+---
+
+# Wird die vierte Anlage auch integriert?
+
+> 🇨🇳 第四套设备也会集成进去吗？
+
+⚠️ integrieren = 集成。
+
+---
+
+# Was meinst du mit integriert?
+
+> 🇨🇳 你说的“集成”是什么意思？
+
+🔥 会议澄清高频。
+
+---
+
+# Das hängt hier mit dran.
+
+> 🇨🇳 这个应该挂在这里一起。
+
+⚠️ mit dran hängen = 一起连在上面 / 附属于。
+
+💥 工程口语。
+
+---
+
+# Ist da viel mit im Plan drin?
+
+> 🇨🇳 计划/图纸里包含很多这个内容吗？
+
+⚠️ drin sein = 包含在里面。
+
+---
+
+# PID-Werte
+
+> 🇨🇳 PID 参数。
+
+🏭 自动化控制核心词：
+
+- P = Proportional
+- I = Integral
+- D = Differential
+
+---
+
+# Das ist komisch.
+
+> 🇨🇳 这有点奇怪。
+
+⚠️ 德国工程语境：  
+通常意味着：
+
+- 逻辑不对
+- 参数不合理
+- 需要检查
+
+---
+
+# Keine D-Werte.
+
+> 🇨🇳 没有 D 值。
+
+🏭 控制参数表达。
+
+---
+
+# Den D-Wert brauchst du ganz selten.
+
+> 🇨🇳 D 值你很少会需要。
+
+🏭 自动化经验表达。
+
+---
+
+# Schwer abzuschätzen.
+
+> 🇨🇳 很难估算。
+
+⚠️ abschätzen = 估算 / 判断。
+
+🔥 高频。
+
+---
+
+# Ich lasse den auch mal weg.
+
+> 🇨🇳 我也先把它省掉。
+
+⚠️ weglassen = 省略 / 不放进去。
+
+---
+
+# Das ist ja kein Regler, das ist ein Steller.
+
+> 🇨🇳 这不是调节器，这是执行/调节元件。
+
+🏭 控制技术核心区分。
+
+---
+
+# Das ist nicht mehr so gut.
+
+> 🇨🇳 那就不太好了。
+
+⚠️ 德国式弱化批评。
+
+可能意思是：  
+这个方案有明显问题。
+
+---
+
+# Bei der ganzen Scheiße mit den Fasern.
+
+> 🇨🇳 这些纤维相关的破事。
+
+⚠️ 粗口表达，不正式。
+
+🧠 真实语气：  
+非常口语，说明这个问题很烦。
+
+---
+
+# Die Schwankung ist sehr riesig.
+
+> 🇨🇳 波动非常大。
+
+⚠️ Schwankung = 波动。
+
+---
+
+# Das ist doch ganz klar.
+
+> 🇨🇳 这不是很明显吗。
+
+💥 语气略强。
+
+---
+
+# Da ist irgendwas faul.
+
+> 🇨🇳 这里肯定有哪里不对劲。
+
+⚠️ faul 字面“腐烂”。
+
+口语里：
+
+- 有问题
+- 不对劲
+- 不合理
+
+🔥 德国口语高频。
+
+---
+
+# Das machen wir besser bei der neuen Anlage.
+
+> 🇨🇳 这个我们在新设备上做得更好。
+
+🧠 真实含义：  
+旧设备问题不再纠结，新设备改进。
+
+---
+
+# Das ist gar nicht so einfach.
+
+> 🇨🇳 这真没那么简单。
+
+⚠️ 德国人弱化复杂度表达。
+
+---
+
+# Da kannst du nicht so einfach einen PID-Regler nehmen.
+
+> 🇨🇳 你不能就这么简单地用一个 PID 调节器。
+
+🏭 控制工程表达。
+
+---
+
+# Weil da zu viele Störgrößen sind.
+
+> 🇨🇳 因为里面干扰量太多。
+
+⚠️ Störgröße = 干扰变量。
+
+📋 控制工程核心词。
+
+---
+
+# Das geht nicht.
+
+> 🇨🇳 这个行不通。
+
+🔥 强否定。
+
+---
+
+# Der nächste Akt ist der Feinöffner.
+
+> 🇨🇳 下一幕就是 Feinöffner。
+
+⚠️ Akt 这里带一点戏剧化/调侃：
+
+- 下一阶段
+- 下一个麻烦点
+- 下一件事
+
+---
+
+# Das ist auch eine Katastrophenmaschine.
+
+> 🇨🇳 那也是一台灾难机器。
+
+⚠️ 很强烈口语吐槽，不正式。
+
+---
+
+# Da geht das schon los.
+
+> 🇨🇳 问题从那里就开始了。
+
+🔥 德国口语高频。
+
+---
+
+# Die dürfen überhaupt nicht stehen bleiben.
+
+> 🇨🇳 它们绝对不能停下来。
+
+⚠️ überhaupt nicht = 完全不 / 绝对不。
+
+---
+
+# Vielleicht finden wir noch ein besseres System.
+
+> 🇨🇳 也许我们还能找到更好的系统。
+
+🧠 德国人保留改进空间。
+
+---
+
+# Wir können hier keine großen Regeln reinmachen.
+
+> 🇨🇳 我们这里不能做很复杂的控制规则。
+
+⚠️ reinmachen = 放进去 / 加进去。
+
+💥 工程口语。
+
+---
+
+# Weil wir die Regelstrecken nicht haben.
+
+> 🇨🇳 因为我们没有相应的控制对象/控制链路。
+
+🏭 Regelstrecke = 控制对象/被控系统。
+
+---
+
+# Das muss so schnell reagieren.
+
+> 🇨🇳 这个必须反应非常快。
+
+🔥 技术高频。
+
+---
+
+# Das müssen wir ausprobieren.
+
+> 🇨🇳 这个我们必须试。
+
+🔥 调试高频。
+
+---
+
+# Anders bleibt nichts übrig.
+
+> 🇨🇳 没有别的办法。
+
+⚠️ 更自然：  
+Da bleibt nichts anderes übrig.
+
+💥 德国口语高频。
+
+---
+
+# Wir nutzen ja nur die Oberstufe.
+
+> 🇨🇳 我们只使用上一级。
+
+🏭 技术表达。
+
+---
+
+# Ich bin alt genug dumm.
+
+> 🇨🇳 我已经够傻/够老了。
+
+⚠️ 这句明显是玩笑/转录不顺。  
+可以复习为：
+
+Ich bin alt genug.  
+我够老了。
+
+或者：
+
+Ich bin nicht mehr jung genug für so einen Quatsch.  
+我已经没那么年轻去折腾这种事了。
+
+---
+
+# Müssen wir zu dem Filter irgendwas vorgeben?
+
+> 🇨🇳 我们需要给过滤系统预设什么吗？
+
+📋 参数讨论高频。
+
+---
+
+# Was ist mit den Einstellwerten?
+
+> 🇨🇳 那设定值怎么办？
+
+🔥 技术会议高频。
+
+---
+
+# Lass das Maiko mal außen vor.
+
+> 🇨🇳 先把 Maiko 放一边。
+
+⚠️ außen vor lassen = 暂时不考虑 / 排除在外。
+
+🔥 会议推进高频。
+
+---
+
+# Wir haben festgestellt, dass ...
+
+> 🇨🇳 我们已经确认/发现……
+
+📋 正式会议表达。
+
+---
+
+# Wo sind die Einstellwerte?
+
+> 🇨🇳 设定值在哪里？
+
+🔥 工程会议核心问题。
+
+---
+
+# Das ist eine Philosophie.
+
+> 🇨🇳 这是一个思路/设计理念问题。
+
+⚠️ Philosophie 在德企里常表示：
+
+- 设计理念
+- 控制逻辑
+- 工作方式
+- 方案风格
+
+---
+
+# Das schauen wir uns mal an.
+
+> 🇨🇳 这个我们看一下。
+
+⚠️ 不是随便看，而是之后会评估。
+
+---
+
+# Wird lustig.
+
+> 🇨🇳 会很有意思/会很折腾。
+
+⚠️ 可能带讽刺：
+
+- 后面会麻烦
+- 会很复杂
+- 有得搞了
+
+💥 德国口语。
+
+---
+
+# Die Mischanlage ist dreimal so groß.
+
+> 🇨🇳 这套混合设备是三倍大。
+
+🏭 工程描述。
+
+---
+
+# Habe ich auch noch nicht erlebt.
+
+> 🇨🇳 我也还没遇到过这种情况。
+
+💥 经验型表达。
+
+---
+
+# Der Stacker läuft ja fast autark.
+
+> 🇨🇳 Stacker 基本是独立运行的。
+
+🏭 系统边界表达。
+
+---
+
+# Wenn der voll ist, dann meldet er sich.
+
+> 🇨🇳 如果它满了，它会发信号。
+
+⚠️ sich melden 在自动化里也可以表示：
+
+- 报警
+- 给信号
+- 反馈状态
+
+---
+
+# Ich kann da sowas brauchen.
+
+> 🇨🇳 这种东西我能用得上。
+
+⚠️ brauchen = 需要 / 用得上。
+
+---
+
+# Ob das so passt.
+
+> 🇨🇳 看这样是否合适。
+
+🔥 德国会议万能句。
+
+---
+
+# Ich habe markiert, was wir geändert haben.
+
+> 🇨🇳 我已经标出了我们改过的地方。
+
+📋 文档协作高频。
+
+---
+
+# Dann sollen sie mal ...
+
+> 🇨🇳 那让他们先……
+
+⚠️ 句子未完，德国人会议里经常边想边说。
+
+---
+
+# Dann gucke ich mir das nächste Woche nochmal an.
+
+> 🇨🇳 那我下周再看一下这个。
+
+🔥 会议后续高频。
+
+---
+
+# Kannst du Übersetzungen mit reinmachen?
+
+> 🇨🇳 你能把翻译也加进去吗？
+
+⚠️ mit reinmachen = 一起放进去。
+
+💥 口语方向词。
+
+---
+
+# Damit das klar wird.
+
+> 🇨🇳 这样就清楚了。
+
+🔥 高频。
+
+---
+
+# So haben wir es auch hingekriegt.
+
+> 🇨🇳 这样我们也搞定了。
+
+⚠️ hinkriegen = 搞定。
+
+💥 德国口语神词。
+
+---
+
+# Das glaube ich jetzt erst mal rein.
+
+> 🇨🇳 我觉得现在先放进去。
+
+⚠️ 转录可能不准，更自然：
+
+Das schreibe ich jetzt erst mal rein.  
+我现在先把它写进去。
+
+---
+
+# Der kommt zufällig in Hildesheim vorbei.
+
+> 🇨🇳 他正好顺路来 Hildesheim。
+
+⚠️ zufällig = 碰巧 / 正好。
+
+---
+
+# Wenn wir alles an der Anlage verteilt haben.
+
+> 🇨🇳 等我们把所有东西在设备上分配好位置之后。
+
+🏭 设备布置高频。
+
+---
+
+# Wo es hin soll.
+
+> 🇨🇳 它应该放到哪里。
+
+⚠️ hin sollen = 应该去哪里 / 应该装在哪里。
+
+💥 德国现场口语核心。
+
+---
+
+# Dann kommt nochmal Kabel.
+
+> 🇨🇳 然后还要再处理电缆。
+
+⚠️ 口语省略。可理解为：
+
+Dann kümmern wir uns nochmal um die Kabel.
+
+---
+
+# Dann können wir die passend bestellen.
+
+> 🇨🇳 那我们就可以按合适长度订购。
+
+📋 采购/安装高频。
+
+---
+
+# Selber konfektionieren.
+
+> 🇨🇳 自己加工/制作电缆。
+
+⚠️ konfektionieren = 按规格制作，电缆领域常见。
+
+---
+
+# Das will ich nicht.
+
+> 🇨🇳 这个我不想做。
+
+💥 直接表达。
+
+---
+
+# In halben Metern.
+
+> 🇨🇳 以半米为单位。
+
+📋 电缆订购语境。
+
+---
+
+# Machen wir oben noch einen Klemmenkasten hin?
+
+> 🇨🇳 我们上面还要放一个接线盒吗？
+
+⚠️ hinmachen = 放到那里 / 装上去。
+
+🏭 现场口语。
+
+---
+
+# Einen Kabelkanal oben machen.
+
+> 🇨🇳 在上面做一个电缆槽。
+
+🏭 Kabelkanal = 电缆槽。
+
+---
+
+# Da kommt ja dann auch das IO hin.
+
+> 🇨🇳 IO 模块也会放到那里。
+
+⚠️ da ... hin = 放到那里。
+
+---
+
+# Das muss nicht in den Klemmenkasten.
+
+> 🇨🇳 这个不一定要放进接线盒里。
+
+🏭 安装讨论高频。
+
+---
+
+# Ist egal.
+
+> 🇨🇳 无所谓。
+
+💥 高频。
+
+---
+
+# Schauen wir mal.
+
+> 🇨🇳 到时候再看。
+
+⚠️ 德国人万能缓冲句：
+
+- 不承诺
+- 先保留
+- 后面现场决定
+
+---
+
+# Welche Kabelkanäle müssen wir noch setzen?
+
+> 🇨🇳 我们还需要安装哪些电缆槽？
+
+🏭 setzen = 安装 / 放置 / 设置。
+
+---
+
+# Dass die Kabel nicht rumfliegen.
+
+> 🇨🇳 这样电缆不会到处乱飞/乱放。
+
+⚠️ rumfliegen = 到处散着 / 乱放。
+
+💥 现场口语。
+
+---
+
+# Dann müssen wir da was Vernünftiges bauen.
+
+> 🇨🇳 那我们得在那里做个像样的方案。
+
+⚠️ vernünftig = 合理的 / 像样的 / 正经的。
+
+🔥 德国工程口语高频。
+
+---
+
+# Ich bin immer gespannt.
+
+> 🇨🇳 我一直很好奇/很期待。
+
+💥 高频。
+
+---
+
+# Wo die ungefähr sind.
+
+> 🇨🇳 它们大概在哪里。
+
+⚠️ ungefähr = 大概。
+
+---
+
+# Der ist sowieso nur noch zehn Tage da.
+
+> 🇨🇳 他反正只剩十天在这里。
+
+⚠️ sowieso = 反正 / 本来就。
+
+---
+
+# Bis Freitag.
+
+> 🇨🇳 到周五为止。
+
+---
+
+# Dann hat er Urlaub.
+
+> 🇨🇳 然后他休假。
+
+---
+
+# Da ist was los.
+
+> 🇨🇳 那里可热闹了 / 情况不少。
+
+⚠️ 德国口语：
+
+Da ist was los.
+
+根据语境可以是：
+
+- 很热闹
+- 很麻烦
+- 有情况
+- 不简单
+
+---
+
+# Der wandert viel.
+
+> 🇨🇳 他经常徒步。
+
+---
+
+# Das muss ich mir echt mal überlegen.
+
+> 🇨🇳 这个我真的得考虑一下。
+
+🔥 高频。
+
+---
+
+# Kein Problem.
+
+> 🇨🇳 没问题。
+
+---
+
+# Nicht auf einmal hart, das geht nicht.
+
+> 🇨🇳 不能一下子就用硬的，那不行。
+
+💥 口语表达。
+
+---
+
+# Wenn schon, dann auch nicht.
+
+> 🇨🇳 要是这样，那也不行。
+
+⚠️ wenn schon, dann ... = 要做就……
+
+---
+
+# Spielst du Tennis oder was?
+
+> 🇨🇳 你打网球还是什么？
+
+💥 日常口语。
+
+---
+
+# So lange ich ein Bier hab, bin ich auch da.
+
+> 🇨🇳 只要我有啤酒，我就在。
+
+💥 玩笑表达。
+
+---
+
+# Wenn du ausfällst hier, dann ...
+
+> 🇨🇳 如果你这边缺席/倒下了，那……
+
+⚠️ ausfallen = 缺席 / 故障 / 无法工作。
+
+---
+
+# Bist du krank oder was?
+
+> 🇨🇳 你生病了还是咋的？
+
+💥 口语。
+
+---
+
+# In meinen Augen ist das die einzige Spritze, die halbwegs sinnvoll ist.
+
+> 🇨🇳 在我看来，这是唯一还算有意义的针。
+
+⚠️ in meinen Augen = 在我看来。  
+halbwegs = 勉强算 / 还算。
+
+---
+
+# Vielen Dank fürs Zuschauen, bis zum nächsten Mal!
+
+> 🇨🇳 感谢观看，下次再见！
+
+⚠️ 这句明显是转录错误/自动字幕残留，不属于会议内容。
